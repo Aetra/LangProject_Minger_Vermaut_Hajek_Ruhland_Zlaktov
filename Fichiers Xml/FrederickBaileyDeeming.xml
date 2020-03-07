@@ -1,0 +1,194 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Frederick Bailey Deeming</title>
+    <ns>0</ns>
+    <id>10809324</id>
+    <revision>
+      <id>937882501</id>
+      <parentid>937882417</parentid>
+      <timestamp>2020-01-27T20:11:46Z</timestamp>
+      <contributor>
+        <username>Bwrs</username>
+        <id>7136482</id>
+      </contributor>
+      <minor/>
+      <comment>re-order boxes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27145" xml:space="preserve">{{Use British English|date=August 2011}}
+{{Use dmy dates|date=August 2011}}
+{{redirect|Deeming|a legal term|deem (law)}}
+{{Infobox criminal
+| name       = Frederick Bailey Deeming
+| image_name         = Deeming.jpg
+| image_size         = 
+| image_caption      = 
+| birth_date      = {{Birth date|1853|7|30|df=y}}
+| birth_place     = [[Ashby-de-la-Zouch]], Leicestershire, England
+| death_date      = {{Death date and age|1892|5|23|1853|7|30|df=y}}
+| death_place     = [[Melbourne]], Colony of Victoria
+| alias              = 
+| charge             = 
+| conviction         = Murder
+| conviction_penalty = Death
+| conviction_status  = [[Execution by hanging|Executed by hanging]]
+| occupation         = 
+| victims            = 6 (4 of them children) Possibly others in the [[Whitechapel murders]]
+| spouse             = 
+| parents            =
+| children           = 
+}}
+
+{{wiktionary|deem|deeming}}
+'''Frederick Bailey Deeming''' (30 July 1853 – 23 May 1892) was an English-born Australian [[gasfitter]] and murderer. He was convicted and executed for the murder of a woman in [[Melbourne, Australia]]. He is remembered today because he was suspected by some of being the notorious serial killer, [[Jack the Ripper]].
+
+Deeming was born in [[Ashby-de-la-Zouch]], [[Leicestershire]], England, son of Thomas Deeming, brazier, and his wife Ann, née Bailey.&lt;ref name=ADB&gt;{{cite web |url=http://www.adb.online.anu.edu.au/biogs/A080288b.htm |title=Deeming, Frederick Bailey (1853–1892) |accessdate=15 September 2008 |author=Jones, Barry O. |work=[[Australian Dictionary of Biography]], Volume 8 |publisher=[[Melbourne University Press|MUP]] |year=1981 |pages=268–269 }}&lt;/ref&gt; He was a "difficult child" according to writers Maurice Gurvich and Christopher Wray.&lt;ref&gt;Gurvich, Maurice; and Christopher Wray (2007). ''The Scarlet Thread: Australia's Jack the Ripper, A True Crime Story.'' p.15,115. Sydney: Fairfax Books. {{ISBN|978-1-921190-42-1}}.&lt;/ref&gt; At 16 years of age, he ran away to sea, and thereafter he began a long career of crime, largely thieving and obtaining money under false pretenses. He was also responsible for the murder of his first wife Marie and his four children at [[Rainhill]], England, on or about 26 July 1891, and a second wife, Emily Mather, at [[Windsor, Victoria|Windsor]], Melbourne, on 24 December 1891.
+ 
+Less than three months elapsed between the discovery of Mather's body in Windsor, Melbourne, in March 1892, and Deeming's execution for her murder in May 1892; a remarkably short time by comparison to modern western legal standards.&lt;ref&gt;Gurvich &amp; Wray (2007). p.290.&lt;/ref&gt; This was not only due to efficient police work, but also a result of the considerable international media interest the murder attracted. For example, it was an English journalist working for the [[The Argus (Australia)|''Melbourne Argus'']] who first approached Mather's mother in Rainhill and delivered the news of her daughter's murder.{{refn|group=nb|The account first appeared in ''The Argus'' on 14 March 1892; “Mrs. Mather had not heard of any murder in Melbourne [or]…the fate of her daughter. When I told her of the tragedy, she fainted.” Gurvich and Wray also list numerous newspaper reports on the Windsor murder.&lt;ref&gt;Gurvich &amp; Wray (2007). p.94-95.&lt;/ref&gt;}} Another factor was Deeming's behaviour in public, for while he often used different names, he usually drew attention to himself with behaviour variously described as aggressive, ostentatious, ingratiating and overly attentive to women.
+
+==Australia in the 1880s==
+Police investigations after his arrest in 1892&lt;ref&gt;See [http://www.prov.vic.gov.au/deeming/documents/vprs937-p0-u511-Precis.htm Victoria Police notes on Deeming's criminal career] {{webarchive|url=https://web.archive.org/web/20080815235415/http://www.prov.vic.gov.au/deeming/documents/vprs937-p0-u511-Precis.htm |date=15 August 2008 }}. – Public Record Office Victoria. – Government of Victoria.&lt;/ref&gt; revealed that Deeming had moved to Australia in 1882, chiefly working in Sydney, but also working for John Danks, a Melbourne importer of plumbing and gas fitting supplies. His Melbourne employers regarded him as an excellent worker and extended him 200 pounds credit, supposedly to open a business in [[Rockhampton, Queensland]]. The money was never repaid.&lt;ref&gt;Gurvich &amp; Wray (2007). p.99.&lt;/ref&gt; Deeming is known to have worked for a Sydney gasfitter, where he was charged with theft of brass fittings from his employer. Deeming indignantly denied the theft, but the items were found at his home and he was sentenced to six weeks imprisonment. Deeming pretended to faint when the sentence was pronounced.&lt;ref name="Christopher Wray 2007 p.101"&gt;Gurvich &amp; Wray (2007). p.101.&lt;/ref&gt; After his release, he continued to work in Sydney as a gasfitter until, in December 1887, he was again committed for trial, now on a charge of fraudulent insolvency. He disappeared from [[New South Wales]] while on bail.
+
+Deeming was accompanied by his wife while in Australia, "a typical Welsh lass,"&lt;ref name="Christopher Wray 2007 p.101"/&gt; Marie, née James. Deeming had married her in Lower Tranmere, England in February 1881 and they had lived briefly at [[Birkenhead]] before leaving for Melbourne.&lt;ref name="Christopher Wray 2007 p.115"&gt;Gurvich &amp; Wray (2007). p.115.&lt;/ref&gt; His brother Alfred, had married Marie's sister, Martha. By 1886 Deeming and Marie had two Australian-born daughters, Bertha and Marie. In 1888 his brothers Alfred and Walter learned that Deeming and his family were returning to England "with a considerable fortune".&lt;ref name="Christopher Wray 2007 p.115"/&gt;
+
+==South Africa and return to England==
+Later police and newspaper research discovered Deeming had been active in [[Cape Town]], South Africa in 1888–1889, but his exact movements at this time are unclear and it appears he returned to [[Birkenhead]], England, at least once. Marie had another child at this time.{{refn|group=nb|He possibly travelled to South Africa without his family.&lt;ref&gt;[http://www.prov.vic.gov.au/deeming/documents/vprs937-p0-u511-Precis.htm Victoria Police notes on Deeming's criminal career] {{webarchive|url=https://web.archive.org/web/20080815235415/http://www.prov.vic.gov.au/deeming/documents/vprs937-p0-u511-Precis.htm |date=15 August 2008 }}. – Public Record Office Victoria. – Government of Victoria.&lt;/ref&gt;}} He was known to have been involved in conducting a [[South African Republic|Transvaal]] diamond mine swindle in 1889.&lt;ref name="Christopher Wray 2007 p.115"/&gt; His return to England via the steamship ''Yumna'' was well remembered by the Captain and passengers because of his ostentatious display of jewelry and money, and his unwanted attention to some of the female passengers.&lt;ref&gt;Gurvich &amp; Wray (2007). p. 105.&lt;/ref&gt;
+
+He had arrived at [[Kingston upon Hull|Hull]] by November 1889, lodging in the nearby town of [[Beverley]]. Here he passed himself off as "a retired sheep farmer" named ''Harry Lawson'' from Mount House Farm, [[Rockhampton, Queensland]], living on 1,500 [[pound sterling|pounds]] a year.&lt;ref&gt;Gurvich &amp; Wray (2007). pp. 106–7.&lt;/ref&gt;  He wooed Helen Matheson, the 21-year-old daughter of his landlady and married her, bigamously, on 18 February 1890.&lt;ref name=ADB/&gt;  About a month later, after a honeymoon in the south of England, he suddenly disappeared, taking his expensive gifts to Matheson with him. Deeming's wife and extended family had heard of his bigamous marriage to Matheson according to Gurvich and Wray.&lt;ref name="Christopher Wray 2007 p.115"/&gt;
+
+Deeming was later found to have then visited Marie and his (now) four children in [[Birkenhead]]. He apparently gave Marie several hundred pounds and announced he was leaving for South America. He would send for her and the children once he was settled.&lt;ref name=MG-CW-p108&gt;Gurvich &amp; Wray (2007). p.108.&lt;/ref&gt; Before leaving he conducted another swindle at a jeweler's in Hull. He was arrested for this on arrival at [[Montevideo]] and extradited back to England on a charge of "obtaining goods by false pretenses" being sentenced to nine months prison.&lt;ref name=MG-CW-p108 /&gt;
+
+==Rainhill==
+On his release from prison in July 1891, Deeming headed to the [[Liverpool]] area, settling into a hotel in the village of [[Rainhill]], Merseyside under the name ''Albert Williams''. A mysterious woman (almost certainly his wife Marie) who appeared at the hotel was dismissed as his "sister", visiting before she left for [[Port Said]]. Deeming then took a lease on Dinham Villa, a house in Rainhill, supposedly on behalf of a military friend, a certain "Colonel Brookes". However, Deeming himself took up residence at Dinham Villa, while a woman and several children were seen at the house and were again dismissed as merely his "sister and her children" visiting, who had "since returned home".&lt;ref&gt;Gurvich &amp; Wray (2007). p.111.&lt;/ref&gt; Shortly afterward, Deeming complained that the drains at Dinham Villa were defective, and the kitchen floor needed to be replaced. He closely supervised the work on the floor.
+
+While in Rainhill, Deeming began to court Emily Lydia Mather,&lt;ref&gt;[http://www.prov.vic.gov.au/deeming/documents/vprs937-p0-u511-emilywilliamsportrait.htm Studio portrait of Mather] {{webarchive|url=https://web.archive.org/web/20090918151245/http://prov.vic.gov.au/deeming/documents/vprs937-p0-u511-emilywilliamsportrait.htm |date=18 September 2009 }}. – Public Record Office Victoria. – Government of Victoria.&lt;/ref&gt; the daughter of a widowed local shopkeeper, Mrs. Dove Mather. Mather and Deeming (as ''Albert Williams'') married on 22 September 1891.
+
+==Windsor murder==
+In November 1891, Deeming (still using the name ''Williams'') took Mather to Australia in the German steamship ''Kaiser Wilhelm II''. They arrived in Melbourne on 15 December 1891. Deeming rented a house on Andrew Street in [[Windsor, Victoria|Windsor]],&lt;ref name=ADB/&gt; a suburb of Melbourne. On 24 December or early on 25 December 1891, he murdered Mather and buried her under the hearthstone of one of the bedrooms, covering the body with cement. He had paid a month's rent in advance, giving the name ''Mr. Drewn'', but almost immediately left the property. The owner, nearby butcher John Stamford, had been happy to rent to the man, because of his air of respectability, and at first, had not even known the man's name.
+
+On 3 March 1892 a prospective tenant of the Windsor house complained of "a disagreeable smell" in the second bedroom.&lt;ref name=Proactive-n40-p4&gt;''Proactive'', Number 40, Winter 2007: Journal of the Public Records Office. "The Crime of Century Revisited". page 4.&lt;/ref&gt;  The owner and estate agent later raised the hearthstone to investigate whereupon the smell became so overpowering "they found themselves barely able to breathe".&lt;ref name=Proactive-n40-p4 /&gt;  The police were called and Mather's body found.  A postmortem conducted on 4 March found that although her skull had been fractured by several blows, the most likely cause of death was that her throat had been cut.&lt;ref&gt;[http://www.prov.vic.gov.au/deeming/documents/vprs30-p0-u886-emilywilliamsautopsy.htm Autopsy report of Emily Mather] {{webarchive|url=https://web.archive.org/web/20090918133804/http://prov.vic.gov.au/deeming/documents/vprs30-p0-u886-emilywilliamsautopsy.htm |date=18 September 2009 }}. – Public Record Office Victoria. – Government of Victoria.&lt;/ref&gt; 
+[[File:DeemingRipper.jpg|thumb|left| alt=19th-century illustration of Deeming| 19th-century illustration comparing Deeming and 'Jack the Viper' of Whitechapel]]
+Publicity surrounding the gruesome finding of Mather's body was considerable. Within a few days, ''[[The Age]]'' newspaper had connected the murder to the [[Whitechapel murders]] of London:
+
+{{quote|From the outset a suspicion of insanity is almost suggested and a tinge of the Whitechapel murders is hinted. The body hacked and mangled, the cool manner in which the cementing was carried out, the taking a house etc, the laborious obliteration of all traces of the crime – all these things suggest the malevolence and craft which can scarcely accompany the sane murderer, no matter how callous and brutal.&lt;ref&gt;{{cite news |newspaper=[[The Age]] |url=https://trove.nla.gov.au/newspaper/page/18426723|title=Search For the Murderer: Discovery of Clues|page=7|date=5 March 1892|accessdate=11 April 2018 }}&lt;/ref&gt;}}
+
+From clues found at the vacant Andrew Street house and from information provided by local tradespeople, including Stamford and his agent, a local laundress, an ironmonger who sold Deeming cement and several carriers, investigating [[Victoria Police]] sergeants William Considine and Henry Cawsey were able to trace the recently arrived ''Mr. Williams'' to the ''Kaiser Wilhelm II''. They were then able to interview other passengers, who gave corroborating descriptions of ''Mr. Williams'' and Mather. In the weeks at sea, Mather had talked to other passengers of her family at Rainhill, and the connection was now made. Deeming's behaviour as ''Mr. Williams'' had also attracted considerable attention during the voyage. Many passengers stated they "detested Williams, [but] all agreed he had treated his wife in a loving and considerate manner".&lt;ref&gt;Gurvich &amp; Wray (2007). p.51.&lt;/ref&gt;  Police now also had a very good description of ''Mr. Williams'', which they circulated to other Australian colonies, but at this stage, his real identity was still unknown.
+
+At an inquest held on 8 March, it was discovered that a man answering ''Mr. Williams''{{'}}s description had auctioned a variety of household goods, possibly wedding presents, in the city in early January 1892. At this time he was staying at the Cathedral Hotel in Swanston Street, Melbourne, registered as ''Mr. Duncan''. It later transpired that Deeming had also written an affectionate letter (as ''Albert Williams'') to Mather's mother several days after Mather's murder. Deeming had found time to approach Holt's Matrimonial Agency (as ''Duncan''), wishing to meet a young lady with matrimonial intentions.&lt;ref&gt;Gurvich &amp; Wray (2007). p.65.&lt;/ref&gt; He had also found time to swindle a local Melbourne jeweller.
+
+==Capture==
+In the meantime, on or about 12 January 1892, Deeming had travelled to Sydney, and was now using the name ''Baron Swanston''. During the voyage and in Sydney Deeming met and courted Kate Rounsefell. He told Rounsefell that if she agreed to become his wife, "she would never regret it, and would always congratulate herself on having entered into matrimony with him".&lt;ref&gt;Gurvich &amp; Wray (2007). p.84.&lt;/ref&gt;  After a whirlwind romance, during which Deeming gave Rounsefell several items of what was later shown to be stolen Melbourne jewellery, Rounsefell consented to marry ''Baron Swanston''. Having also agreed to follow him to Western Australia, Rounsefell and Deeming parted company. By means of forged testimonials, Deeming had obtained a position at a mine at [[Southern Cross, Western Australia|Southern Cross]]. 
+
+On 22 January 1892 ''Baron Swanston'' departed for Fremantle. Again, Deeming as ''Baron Swanston'' made a name for himself on the ship, boasting of his wealth and position in society. He made approaches to Miss Maude Beech, a young woman in the care of her uncle and aunt, Mr. and Mrs. Wakeley. In this case, Deeming's charm came to nothing. Mr. Wakeley told ''Swanston''; "I may tell you plainly, that I don't believe your stories and I am not in the habit of allowing men of your class to enter my family circle."&lt;ref&gt;Gurvich &amp; Wray (2007). p.89.&lt;/ref&gt; Once settled at Southern Cross, Deeming maintained a barrage of pleas to Rounsefell, writing on 8 February; "Don't keep me waiting dear. If you love me half as much as I love you, you would not keep me waiting a day".&lt;ref&gt;Gurvich &amp; Wray (2007). p.90.&lt;/ref&gt; {{refn|group=nb|For the full text of this letter. Gurvich and Wray also argue that the suggestion Deeming purchased cement at South Cross, in preparation for Rounsefell's arrival, is incorrect.&lt;ref&gt;Gurvich &amp; Wray (2007). p.276.&lt;/ref&gt;}} 
+
+Police were closing in, however, and following telegrams by [[Victoria Police]] to Western Australia, Deeming was arrested at Southern Cross on 12 March 1892. He began by denying he was Deeming but later said "I think I know the party who has been murdered. I don't believe anyone would have the heart to murder a girl like that".&lt;ref&gt;Gurvich &amp; Wray (2007). p.79.&lt;/ref&gt; Found in his possession at the time of the arrest were a number of Mather's belongings, including her prayer book.&lt;ref&gt;[http://www.prov.vic.gov.au/deeming/documents/vprs937-p0-u511-deemingpossessions.htm Deeming’s possessions on arrest] {{webarchive|url=https://web.archive.org/web/20080816042930/http://www.prov.vic.gov.au/deeming/documents/vprs937-p0-u511-deemingpossessions.htm |date=16 August 2008 }}. – Public Record Office Victoria. – Government of Victoria.&lt;/ref&gt;
+
+At about the same time Deeming was being returned to Melbourne, news of the discovery of the Rainhill murders in England arrived in Australia.&lt;ref name=Proactive-n40-p4/&gt;
+
+==Rainhill murders==
+Following publicity surrounding the discovery of Mather's body at Windsor, investigations at Rainhill revealed the decomposing bodies of Marie Deeming and the four children; Bertha (aged 10), Mary (7), Sidney (5) and Leala (18 months) buried beneath the re-concreted floor of Dinham Villa. The throats of most had been cut (Bertha had been strangled). The murder and burials had apparently occurred while Deeming (as ''Albert Williams'') was courting Mather, on or about 26 July 1891.&lt;ref&gt;Gurvich &amp; Wray (2007). p.117.  NOTE: However, it may have been as late as 11 August 1891.&lt;/ref&gt; At an inquest held at Rainhill on 18 March 1892, Deeming's brothers identified Marie and gave some accounts of his activities.&lt;ref&gt;[http://www.prov.vic.gov.au/deeming/documents/images/australasian26mar1892.htm See: ''The Australasian''. 26 March 1892.] {{webarchive|url=https://web.archive.org/web/20080815234045/http://www.prov.vic.gov.au/deeming/documents/images/australasian26mar1892.htm |date=15 August 2008 }}. – Public Record Office Victoria. – Government of Victoria.&lt;/ref&gt;
+
+The Rainhill murders had gone undetected for eight months. It appears Deeming's brothers and Marie's sister had been led to believe that Marie and the children were in [[Brighton]] on a holiday and then assumed they were overseas again. Deeming had made several visits to Birkenhead to reassure Martha that her sister and the children were well.&lt;ref&gt;Gurvich &amp; Wray (2007). p.119.&lt;/ref&gt; Detection of the murders was also obstructed by Deeming's lease (as Williams) on Dinham Villa, which stipulated that the house should not be sold or relet for six months, because of the imminent arrival of Colonel Brookes and/or ''Williams''' sister. The lease also allowed ''Williams'' to resurface the concrete floor.&lt;ref&gt;Gurvich &amp; Wray (2007). p.118.&lt;/ref&gt;
+
+==Trial and Execution==
+Furious demonstrations against Deeming were made on the journey to [[Perth, Western Australia|Perth]], and again on the way to [[Albany, Western Australia|Albany]]. Deeming was tried at Melbourne Supreme Court on 25 April 1892.&lt;ref&gt;Gurvich &amp; Wray (2007). p.199.&lt;/ref&gt; The prosecution case was conducted by [[Robert Walsh (Australian politician)|Robert Walsh]], Q.C.&lt;ref&gt;{{cite Australasia|Walsh, Hon. Robert}}&lt;/ref&gt; [[Alfred Deakin]], his counsel, tried to mount a plea of insanity. The defence also questioned the impact of newspaper reporting of Deeming on the jury. 
+
+Perhaps wishing to aid the defence of insanity, Deeming also claimed to have caught [[syphilis]] in London and to have received visitations from his mother's spirit, which urged his actions.  Before the jury retired, Deeming made a "lengthy,... rambling, speech of self-justification."  He repeated a story he had told police that Emily had "run off with another man". "That is my one comfort...knowing that she is not dead".&lt;ref&gt;Gurvich &amp; Wray (2007). p.258-9.&lt;/ref&gt;
+
+Deeming was found guilty as charged, however.  Deeming spent the last days writing his autobiography and poetry; "The Jury listened well to the yarn I had to tell, But they sent me straight to hell."&lt;ref&gt;Gurvich &amp; Wray (2007). p.273.&lt;/ref&gt;  He also spent time talking to the [[Church of England]] ministers, to whom he supposedly confessed.  The sentence of the court was confirmed by the Executive Council on 9 May 1892 and the judicial committee of the Privy Council refused leave to appeal on 19 May 1892. Deeming was hanged at 10:01&amp;nbsp;am on 23 May 1892, he weighed  {{convert|143|lb|kg}}, {{convert|14|lb|kg}} less than when he entered prison.&lt;ref&gt;{{cite news |title=Deeming at the Gallows; The Wife Murderer Hanged at Melbourne This Morning |newspaper=[[The New York Times]] |date=23 May 1892 |page=1 }}&lt;/ref&gt;  The autobiography which Deeming wrote in jail was destroyed.&lt;ref name=ADB /&gt;
+
+==Aftermath==
+[[File:Emily Mather Grave, Melbourne General Cemetery.JPG|thumb|right|200px|right|Grave of Emily Mather, Melbourne General Cemetery]]
+A family acquaintance of the Mather family, Edward Thunderbolt, Melbourne's Inspector of Public Nuisances, arranged a public subscription, and erected a monument to Emily Mather at Melbourne General Cemetery.{{refn|group=nb|The monument still stands and reads: EMILY LYDIA MATHER beloved daughter of JOHN&amp;DOVE MATHER of RAINHILL, ENGLAND.MURDERED 24th DEC 1891, AT WINDSOR, MELBOURNE.AGED 26 YEARS. Erected by public subscription. Who all her days while yet alive, To live in honour she did strive. Till he she trusted as her guide, without cause or warning her life denied. ADVICE; To those who hereafter come reflecting, Upon this text of her sad ending. To warn her sex of their intending. For marrying in haste, is depending, On such a fate, too late for amending. By her friend, E.THUNDERBOLT.&lt;ref&gt;Gurvich &amp; Wray (2007). p.304.&lt;/ref&gt;}}
+
+===Jack the Ripper Theory===
+
+As Australians struggled to comprehend the savageness of the Windsor murder, significant press speculation grew, suggesting Deeming was [[Whitechapel murders|Jack the Ripper]].&lt;ref&gt;[http://www.prov.vic.gov.au/deeming/documents/vprs937-p0-u511-ripperhandwriting.htm  Newspaper clipping comparing Deeming's and Jack the Ripper's handwriting] {{webarchive|url=https://web.archive.org/web/20080815235246/http://www.prov.vic.gov.au/deeming/documents/vprs937-p0-u511-ripperhandwriting.htm |date=15 August 2008 }}. – Public Record Office Victoria. – Government of Victoria.&lt;/ref&gt; The speculation was also found in overseas reports of the case. For example, on 17 March 1892 ''[[The New York Times]]'' reported the story with the headlines:
+
+{{quote|Perhaps Jack the Ripper. The Startling discovery made in Liverpool. A Man arrested in Australia.&lt;ref&gt;{{cite news |title=Perhaps Jack the Ripper. The Startling discovery made in Liverpool. |newspaper=[[The New York Times]] |date=17 March 1892 |page=1 }}&lt;/ref&gt;}}
+
+Deeming's movements at many stages of his career are obscure, but it appears he may have been in England in late 1888, the time of the [[Whitechapel murders]]. Kreitmayer's Melbourne waxworks of 1912 probably reflected widespread public opinion when it depicted in wax Deeming burying Mather, commenting that it was suspected he was "identical with Jack the Ripper".&lt;ref&gt;[http://www.slv.vic.gov.au/vicpamphlets/0/0/0/pdf/vp0008.pdf Kreitmayers Waxworks pamphlet, see page 11. items 152 and 153] {{webarchive|url=https://web.archive.org/web/20110612140354/http://www.slv.vic.gov.au/vicpamphlets/0/0/0/pdf/vp0008.pdf |date=12 June 2011 }}. – Government of Victoria. (Adobe Acrobat *.PDF document).&lt;/ref&gt; Speculation that Deeming was Jack the Ripper continues today&lt;ref&gt;{{cite news |url=http://www.theage.com.au/national/missing-skull-may-hold-melbourne-clue-in-hunt-for-jack-the-ripper-20090415-a74u.html |title=Missing skull may hold Melbourne clue in hunt for Jack the Ripper |newspaper=[[The Age]] |date=15 April 2009 | first=Paul | last=Millar}}&lt;/ref&gt; and Robin Napper a former Scotland Yard detective and currently forensic researcher, along with a team of researchers, came to the conclusion that most of the evidence leads to Deeming as Jack the Ripper.
+
+This aired on a Discovery Channel documentary in 2011. According to Napper the display of Deeming's death mask as that of "Jack the Ripper" in the [[Black Museum|Scotland Yard Museum of Crime]] shows that the police had, in fact, always considered him a prime suspect. The reason that the police officially dismissed Deeming as a suspect of the Whitechapel murders, according to Napper, is that they had believed he was either in jail at the time according to some&lt;ref&gt;''The Crimes, Detection and Death of Jack the Ripper'' by [[Martin Fido]], London, Weidenfeld &amp; Nicolson. {{ISBN|0-297-79136-2}}, page 182; ''The Complete Jack the Ripper: Fully Revised and Updated'' by [[Donald Rumbelow]], Penguin Books. {{ISBN|0-14-017395-1}}, page 268&lt;/ref&gt; or that he was in South Africa according to others.&lt;ref&gt;''Jack the Ripper: Letters from Hell'' by Stewart P. Evans and Keith Skinner, Stroud, Gloucestershire, Sutton Publishing, 2001, {{ISBN|0-7509-2549-3}} page 241&lt;/ref&gt; But Napper proved that he was not in jail at the time, and pointed to evidence that he had in fact been back from South Africa to England at the time of the murders. He also pointed to a motive (incurring syphilis from a prostitute), a criminal profile and killing pattern that fitted exactly.&lt;ref&gt;Prime Suspect: Jack the Ripper, Discovery Channel, 2011; Narration by Dennis Cometti&lt;/ref&gt;
+
+Deeming's death mask is on display at the [[Old Melbourne Gaol]] in Melbourne, where he was executed, and at the Black Museum at New Scotland Yard.
+
+==Notes==
+{{Reflist|30em|group=nb}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[https://web.archive.org/web/20140214092442/http://www.prov.vic.gov.au/online-exhibitions/deeming/default.htm ''Bigamy, Theft and Murder: The Extraordinary Tale of Frederick Bailey Deeming''], an online exhibition at Public Record Office Victoria.
+*[http://trove.nla.gov.au/newspaper/article/4064526 Examination of remains by [[William Colin Mackenzie]] to determine Deeming's connexion with apes]
+*[http://www.gutenberg.net.au/dictbiog/0-dict-biogD.html#deeming1 Dictionary of Australian Biography entry by Percy Serle]
+{{Authority control}}
+
+{{DEFAULTSORT:Deeming, Frederick Bailey}}
+[[Category:1853 births]]
+[[Category:1892 deaths]]
+[[Category:1891 crimes]]
+[[Category:English serial killers]]
+[[Category:Australian murderers of children]]
+[[Category:People executed for murder]]
+[[Category:Australian people convicted of murder]]
+[[Category:English emigrants to Australia]]
+[[Category:Executed Australian people]]
+[[Category:Executed people from Leicestershire]]
+[[Category:Gasfitters]]
+[[Category:Jack the Ripper]]
+[[Category:People convicted of murder by Victoria (Australia)]]
+[[Category:People executed by Victoria (Australia)]]
+[[Category:People from Ashby-de-la-Zouch]]
+[[Category:Filicides in England]]&lt;!--child murder took place in England--&gt;
+[[Category:People executed by Australian Colonies by hanging]]
+[[Category:19th-century English criminals]]
+[[Category:19th-century Australian criminals]]</text>
+      <sha1>idqztw9cljbkltqsttdjgabkt8hltvk</sha1>
+    </revision>
+  </page>
+</mediawiki>
