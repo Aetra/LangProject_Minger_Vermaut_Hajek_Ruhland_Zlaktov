@@ -1,0 +1,6 @@
+Information à récupérer:
+-Nom prénom
+-ville
+-nombre de mort
+-date des crimes
+-date d'arrestation
