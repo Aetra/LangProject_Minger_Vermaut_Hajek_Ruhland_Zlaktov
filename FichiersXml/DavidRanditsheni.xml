@@ -1,0 +1,108 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>David Randitsheni</title>
+    <ns>0</ns>
+    <id>24039733</id>
+    <revision>
+      <id>935299139</id>
+      <parentid>933585571</parentid>
+      <timestamp>2020-01-11T20:25:20Z</timestamp>
+      <contributor>
+        <username>GoodDay</username>
+        <id>589223</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2825" xml:space="preserve">{{Infobox serial killer
+|name=David Randitsheni
+|image=
+|image_size=
+|caption=
+|birthname=David Randitsheni
+|alias=[[Modimolle]] Serial Killer
+|birth_date=1964/5
+|birth_place=[[South Africa]]
+|death_date=2009
+|death_place=
+|cause=[[Suicide]]
+|conviction=10 counts of [[murder]]&lt;br&gt;17 counts of [[rape]]&lt;br&gt;18 counts of [[kidnapping]]&lt;br&gt;1 count of [[indecent assault]]
+|sentence=16 [[life sentences]]&lt;br&gt;220 years in prison
+|victims=10
+|country=[[South Africa]]
+|states=[[Limpopo]]
+|beginyear=2004
+|endyear=2008
+|apprehended=
+}}
+'''David Randitsheni''' (1964/65 – 2009&lt;ref&gt;{{Cite news| title=Serial killer found hanging by a sheet |date=2009-08-31 |work=IOL |agency=SAPA |url=http://www.iol.co.za/index.php?set_id=1&amp;click_id=13&amp;art_id=nw20090831092222208C434625 |accessdate=2009-08-31}}&lt;/ref&gt;) was a [[South Africa]]n [[Rape|rapist]] and [[serial killer]] who in 2009 was convicted on 10 counts of murder, 17 counts of rape, 18 counts of kidnapping and one count of indecent assault. He was sentenced to 16 life sentences and 220 years in prison with the judge stipulating that he could not be considered for parole before serving at least 35 years in prison by which time he would be 80-years-old.&lt;ref&gt;{{Cite news |title=16x life for serial child killer |date=2009-08-18 |work=News24.com |agency=SAPA |url=http://www.news24.com/Content/SouthAfrica/News/1059/812536bf1830478597fe86c76ad4703d/18-08-2009-10-06/16x_life_for_serial_child_killer |accessdate=2009-08-19 |url-status=dead |archiveurl=https://web.archive.org/web/20090820065947/http://www.news24.com/Content/SouthAfrica/News/1059/812536bf1830478597fe86c76ad4703d/18-08-2009-10-06/16x_life_for_serial_child_killer |archivedate=2009-08-20 }}&lt;/ref&gt; Only one of his victims was an adult (a woman), the rest were all children.
+
+The crimes were committed over a four-year period from 2004 to 2008 around the town of [[Modimolle]] in the [[Limpopo]] province. 
+
+Randitsheni was found hanging in his prison cell from an apparent suicide shortly after commencing his sentence.&lt;ref&gt;{{Cite news| title=Serial killer found hanging by a sheet |date=2009-08-31 |work=IOL |agency=SAPA |url=http://www.iol.co.za/index.php?set_id=1&amp;click_id=13&amp;art_id=nw20090831092222208C434625 |accessdate=2009-08-31}}&lt;/ref&gt;
+
+==See also==
+*[[List of serial killers by number of victims]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Randitsheni, David}}
+[[Category:1960s births]]
+[[Category:2009 deaths]]
+[[Category:South African rapists]]
+[[Category:South African serial killers]]
+[[Category:Male serial killers]]
+[[Category:People convicted of indecent assault]]
+[[Category:People convicted of murder by South Africa]]
+[[Category:Serial killers who committed suicide in prison custody]]
+[[Category:South African people convicted of murder]]
+[[Category:Year of birth uncertain]]
+
+{{crime-bio-stub}}</text>
+      <sha1>5lop46ltpy10x7trz3arzjuzwhy0c8l</sha1>
+    </revision>
+  </page>
+</mediawiki>

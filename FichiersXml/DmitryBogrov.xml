@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.30</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dmitry Bogrov</title>
+    <ns>0</ns>
+    <id>516171</id>
+    <revision>
+      <id>942100817</id>
+      <parentid>942100752</parentid>
+      <timestamp>2020-02-22T16:29:51Z</timestamp>
+      <contributor>
+        <username>NatriumGedrogt</username>
+        <id>36165634</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2912" xml:space="preserve">{{Refimprove|date=April 2014}}
+[[File:Bogrov1910.jpg|thumb|right|Bogrov in 1910.]]
+'''Dmitry Grigoriyevich Bogrov''' (1887 – 24 September 1911) ({{Lang-ru|Дмитрий Григорьевич Богров}}) was the [[assassination|assassin]] of the [[Imperial Russia|Russian]] Minister Of The Interior [[Pyotr Stolypin]].
+
+Born '''Mordechai Gershkovich Bogrov''' ({{Lang-ru|Мордехай Гершкович Богров}}){{citation needed|date=June 2012}} into a family of [[Jewish]] merchants in [[Kiev]] ([[Russian Empire]]), Bogrov, while simultaneously acting as an anarchist revolutionary, had been an agent of the ''[[Okhrana]]'' [[secret police]] since 1906, informing on the activities of [[Socialist Revolutionary Party|Socialist Revolutionaries]], [[Social Democrat]]s and [[anarchism|anarchists]].&lt;ref&gt;Riasanovsky, Nicholas V., and Mark D. Steinberg. A history of Russia. Oxford University Press, 2011, p. 412.&lt;/ref&gt;
+
+On 14 September 1911, Dmitry Bogrov shot the Russian prime minister Pyotr Stolypin, in the [[Kiev Opera|Kiev Opera House]], in front of [[Tsar]] [[Nicholas II of Russia|Nicholas II]] and two of the imperial princesses. Stolypin died four days later. This act was committed ostensibly in order to decapitate a successful and popular conservative reform movement and thus hasten violent [[revolution]]. However, it has been alleged{{By whom|date=March 2015}} that Bogrov was permitted to act at the behest of [[Far-right politics|extreme right-wing elements]] in the Tsarist secret police who detested Stolypin because of his agrarian reforms and his flair for parliamentary government. ([[Aleksandr Solzhenitsyn]] extensively investigates and gives full credit to this conjecture in his historical novel ''[[August 1914 (novel)|August 1914]]'').
+
+Bogrov was tried by the district [[military court]]. Despite the plea of Stolypin's widow to the court to save Bogrov's life (she said that taking the young man's life would not bring her husband back), Bogrov was sentenced to death and executed by hanging on {{OldStyleDate|September 24|1911|September 11}} in the Kiev fortress of [[Lysa Hora (Kiev)|Lysa Hora]].
+
+
+==References==
+{{Reflist}}
+{{Authority control}}
+
+
+{{DEFAULTSORT:Bogrov, Dmitry Grigoriyevich}}
+[[Category:1887 births]]
+[[Category:1911 deaths]]
+[[Category:People from Kiev]]
+[[Category:People from Kiev Governorate]]
+[[Category:Ukrainian Jews]]
+[[Category:Ukrainian anarchists]]
+[[Category:Okhrana informants]]
+[[Category:Assassins of heads of government]]
+[[Category:Ukrainian assassins]]
+[[Category:People convicted of murder by Russia]]
+[[Category:Ukrainian people convicted of murder]]
+[[Category:People executed by the Russian Empire]]
+[[Category:Executed Ukrainian people]]
+[[Category:Ukrainian revolutionaries]]
+[[Category:Executed assassins]]
+[[Category:People executed by the Russian Empire by hanging]]
+
+
+{{Ukrainian-history-stub}}
+{{Russia-hist-stub}}</text>
+      <sha1>3rrrpfbcedx2mjlbjy2b6i69efn2n0c</sha1>
+    </revision>
+  </page>
+</mediawiki>

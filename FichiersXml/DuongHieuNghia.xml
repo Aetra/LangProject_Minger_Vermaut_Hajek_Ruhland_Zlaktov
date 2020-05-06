@@ -1,0 +1,96 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.35.0-wmf.30</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dương Hiếu Nghĩa</title>
+    <ns>0</ns>
+    <id>13689099</id>
+    <revision>
+      <id>931149474</id>
+      <parentid>918493263</parentid>
+      <timestamp>2019-12-17T07:14:26Z</timestamp>
+      <contributor>
+        <username>Jevansen</username>
+        <id>2842084</id>
+      </contributor>
+      <minor/>
+      <comment>Moving from [[Category:People from Dong Thap Province]] to [[Category:People from Đồng Tháp Province]] using [[c:Help:Cat-a-lot|Cat-a-lot]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2206" xml:space="preserve">Colonel '''Dương Hiếu Nghĩa''' (born c. 1925, [[Sa Đéc]]) was an officer in the [[Army of the Republic of Vietnam]]. He 
+graduated from the [[Da Lat|Đà Lạt]] National Military Academy. During the [[Vietnam War]], he served in various infantry and armored units. His highest administrative position was Province Chief of [[Vinh Long|Vĩnh Long]].
+
+He, along with Captain [[Nguyen Van Nhung|Nguyễn Văn Nhung]], executed President [[Ngo Dinh Diem|Ngô Đình Diệm]] and the President's confidant, his brother [[Ngo Dinh Nhu|Ngô Đình Nhu]] after the latter were arrested at the end of an [[1963 South Vietnamese coup|army coup]]. After the [[Fall of Saigon]] in 1975, Nghia spent at least a dozen years in various re-education camps. In 1992, he was allowed to emigrate to the United States under the Humanitarian Orderly Departure Program. {{Citation needed|date=December 2011}}
+
+==See also==
+*[[Arrest and assassination of Ngo Dinh Diem]]
+*[[1963 South Vietnamese coup]]
+
+==References==
+*{{cite book|title=Vietnam: A history|first=Stanley|last=Karnow|year=1997|publisher=[[Penguin Books]]|pages=321–326, 354–355|isbn=0-670-84218-4}}
+*{{cite web|url=http://nhd18.esmartweb.com/vnchbuctu/biasau.html|title=VNCH Bi Buc Tu dich gia Duong Hieu Nghia –  Regiments|language=Vietnamese|trans-title=La Mort du Vietnam translated by Duong Hieu Nghia - translator's biography included|accessdate=November 10, 2009|url-status=dead|archiveurl=https://web.archive.org/web/20090614232357/http://nhd18.esmartweb.com/vnchbuctu/biasau.html|archivedate=June 14, 2009}}
+
+{{DEFAULTSORT:Nghia, Duong Hieu}}
+[[Category:1920s births]]
+[[Category:Vietnamese anti-communists]]
+[[Category:Vietnamese assassins]]
+[[Category:Vietnamese military personnel]]
+[[Category:South Vietnamese military personnel of the Vietnam War]]
+[[Category:Assassins of heads of state]]
+[[Category:Vietnamese people of the Vietnam War]]
+[[Category:Vietnamese exiles]]
+[[Category:Living people]]
+[[Category:Date of birth unknown]]
+[[Category:People from Đồng Tháp Province]]
+[[Category:1960s murders in Vietnam]]
+[[Category:1963 crimes in Vietnam]]
+[[Category:1963 murders in Asia]]
+
+
+{{Vietnam-bio-stub}}
+{{Vietnam-mil-bio-stub}}</text>
+      <sha1>n5838h25t6a0809xzui247j6jhlrbqd</sha1>
+    </revision>
+  </page>
+</mediawiki>

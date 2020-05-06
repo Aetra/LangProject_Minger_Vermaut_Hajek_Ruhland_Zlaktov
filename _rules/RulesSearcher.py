@@ -40,9 +40,7 @@ def motifChunk(text):
             sentence = re.sub(',', '', sentence)
             words = nltk.word_tokenize(sentence)
             tagged = nltk.pos_tag(words)
-
             chunk_gram = r"""Chunk: {<IN><NNP>*?<CD>+<NN|NNP|DT|PRP.?>+<VB.?><...?.?>*?<NN.?.?><IN>*?<...?.?>*?<NNP|CD>+<NN>*?}"""
-
             chunkParser = nltk.RegexpParser(chunk_gram)
             chunked = chunkParser.parse(tagged)
 
