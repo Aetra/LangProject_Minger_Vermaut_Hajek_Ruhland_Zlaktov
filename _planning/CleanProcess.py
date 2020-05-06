@@ -1,6 +1,6 @@
 #librairie permettant les opérations de bases sur des expressions rationels
 import re
-#Utilisation de lxml pour manipulé le fichier xml
+#Utilisation de lxml pour manipuler le fichier xml
 from lxml import etree
 #Gérer des types de données de conteneurs
 import collections
@@ -91,28 +91,53 @@ def getTextForEnq(txt):
     if '#REDIRECT' in txt:
         return "", ""
     elif 'Infobox serial killer' in txt:
-        (infobox_begin, infobox_end) = getPosMinMax("Infobox serial killer", txt)
-        (txt_begin, txt_end) = getTextiR(txt, infobox_end + 1)
+        (containInfoStart, containInfoEnd) = getPosMinMax("Infobox serial killer", txt)
+        (txt_begin, txt_end) = getTextiR(txt, containInfoEnd + 1)
     elif 'Infobox murderer' in txt:
-        (infobox_begin, infobox_end) = getPosMinMax("Infobox murderer", txt)
-        (txt_begin, txt_end) = getTextiR(txt, infobox_end + 1)
+        (containInfoStart, containInfoEnd) = getPosMinMax("Infobox murderer", txt)
+        (txt_begin, txt_end) = getTextiR(txt, containInfoEnd + 1)
     elif 'Infobox person' in txt or 'Infobox Person' in txt:
-        (infobox_begin, infobox_end) = getPosMinMax("Infobox person", txt)
-        (txt_begin, txt_end) = getTextiR(txt, infobox_end + 1)
+        (containInfoStart, containInfoEnd) = getPosMinMax("Infobox person", txt)
+        (txt_begin, txt_end) = getTextiR(txt, containInfoEnd + 1)
     elif 'Infobox criminal' in txt:
-        (infobox_begin, infobox_end) = getPosMinMax("Infobox criminal", txt)
-        (txt_begin, txt_end) = getTextiR(txt, infobox_end + 1)
+        (containInfoStart, containInfoEnd) = getPosMinMax("Infobox criminal", txt)
+        (txt_begin, txt_end) = getTextiR(txt, containInfoEnd + 1)
     elif 'Infobox officeholder' in txt:
-        (infobox_begin, infobox_end) = getPosMinMax("Infobox officeholder", txt)
-        (txt_begin, txt_end) = getTextiR(txt, infobox_end + 1)
+        (containInfoStart, containInfoEnd) = getPosMinMax("Infobox officeholder", txt)
+        (txt_begin, txt_end) = getTextiR(txt, containInfoEnd + 1)
     elif 'Infobox' in txt:
-        (infobox_begin, infobox_end) = getPosMinMax("Infobox", txt)
-        (txt_begin, txt_end) = getTextiR(txt, infobox_end + 1)
+        (containInfoStart, containInfoEnd) = getPosMinMax("Infobox", txt)
+        (txt_begin, txt_end) = getTextiR(txt, containInfoEnd + 1)
     else:
-        (infobox_begin, infobox_end) = (0, 0)
+        (containInfoStart, containInfoEnd) = (0, 0)
         (txt_begin, txt_end) = getTextiR(txt, 0)
-    return txt[infobox_begin:infobox_end], txt[txt_begin:txt_end]
+    return txt[containInfoStart:containInfoEnd], txt[txt_begin:txt_end]
 
+
+# Renvoie True si au moins une des liste de la liste est non vide
+def is_partly_completed(list):
+    for x in list[1:]:
+        if x != []:
+            return True
+    return False
+
+# Nettoie un set d'informations pour éviter les doublons d'tabInfo (date partielle et date complète par exemple)
+def cleanDoub(set):
+    a_supprimer = []
+    for element in set:
+        for s in set:
+            if element in s and element != s:
+                a_supprimer.append(element)
+    for x in a_supprimer:
+        set.remove(x)
+    return set
+
+#On test si la liste parmis l'ensemble des listes est non vide
+def isFull(list):
+    for x in list:
+        if x == []:
+            return False
+    return True
 
 #dans cette partie on retire tout ce qui va posé problème, ce qui est inutile dans le traitement de notre "enquête"
 def cleanText(txt):
