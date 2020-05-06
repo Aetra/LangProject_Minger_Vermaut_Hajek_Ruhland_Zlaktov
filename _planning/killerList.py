@@ -1,4 +1,3 @@
-import re
 
 from _planning.CleanProcess import fctKillerList, getTextForEnq
 from nltk.corpus import wordnet as wn

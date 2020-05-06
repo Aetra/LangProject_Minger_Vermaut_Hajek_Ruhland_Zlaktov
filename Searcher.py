@@ -1,7 +1,5 @@
 from _planning.killerList import getAllInfo, researchForSearcher
-from _planning.CleanProcess import isFull, is_partly_completed
 from _rules.InfoEnq import getText, getNbVictims, getLieu, getDates, getDateVic
-
 #Resitution des informations pour pouvoir les afficher dans l'ordre victime, date début, date fin, le lieux. Ce qui constitue une liste d'informations sur les tueurs
 def postAllInfo():
     infoKiller = getAllInfo()
